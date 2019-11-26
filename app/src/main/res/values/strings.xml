@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NFC</string>
+    <string name="hint_your_message">your message</string>
+    <string name="label_your_message">Outgoing Nfc Message</string>
+    <string name="title_btn_set">Set Message</string>
+</resources>
